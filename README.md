@@ -16,4 +16,4 @@ Os arquivos de leitura devem estar no mesmo diretório dos códigos:
 - indigenas.csv
 
 
-Os microdados foram alterados pois ainda não foram publicados pelo IBGE.
+Os microdados são sintéticos em consonância com a LGPD e a Lei do Sigilo Estatístico.
